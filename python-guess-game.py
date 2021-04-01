@@ -1,6 +1,6 @@
 import random
 print('****Python Guess game****')
-print('Rules are as follows:')
+print('Rules are as follows: Thanks')
 print('You have to guess any number from your choice')
 print('You will have 10 chances if you match 4 times you win')
 print('Lets start')
